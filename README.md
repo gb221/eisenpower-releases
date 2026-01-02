@@ -7,10 +7,6 @@ Eisenhower Matrix task management app for macOS with automatic updates.
 1. Download `EisenPower-X.X.X.dmg` from the [latest release](https://github.com/gb221/eisenpower-releases/releases/latest)
 2. Open the DMG file
 3. Drag **EisenPower** to your **Applications** folder
-4. **First launch only** (to bypass Gatekeeper):
-   - Right-click the app → Select **Open** → Click **Open** in the dialog
-   - Or run in Terminal: `xattr -cr /Applications/EisenPower.app`
-5. Future launches work normally from Dock or Spotlight
 
 ## Automatic Updates
 
